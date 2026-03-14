@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "答辞",
+  "base_artist": "ぎゅる子",
+  "createdAt": "2026-03-14T18:21:16.976924Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "答辞",
+      "artist": "ぎゅる子",
+      "has_synced": false,
+      "path": "select/pl_01_答辞_ぎゅる子.txt"
+    }
+  ]
+}
